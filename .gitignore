@@ -1,0 +1,50 @@
+# Visual Studio folders
+.vs/
+x64/
+Debug/
+Release/
+
+# Build output
+*.obj
+*.exe
+*.dll
+*.lib
+*.pdb
+*.exp
+*.log
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# CMake/Qt/other build systems (optioneel)
+CMakeLists.txt.user*
+*.qmake.cache
+*.qmake.stash
+
+# Project files to ignore
+*.VC.db
+*.VC.opendb
+
+# Backup/temporary files
+*~
+*.swp
+*.tmp
+
+# Ignore generated folders
+RNG/ipch/
+RNG/.vs/
+RNG/Debug/
+RNG/Release/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore Git folder itself (safety)
+!.git/
+
+# Ignore everything in build folders
+build/
