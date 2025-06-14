@@ -1,21 +1,21 @@
-# CPP Chaos RNG 🎲
+# CPP Chaos RNG 
 
 This project is a personal tool created solely for the purpose of learning and practicing C++ programming. It is **not** intended for production use or distribution.
 
 ---
 
-## 🎯 Purpose
+##  Purpose
 
 The main goal of this project was to deepen my understanding of core C++ concepts, including:
 - **Random number generation** 
-- **Bitwise operations** 🖥
+- **Bitwise operations** 
 - **Performance optimization** 
 - **Console input/output**
-- **Basic use of ANSI escape codes for colored terminal output** 🌈
+- **Basic use of ANSI escape codes for colored terminal output** 
 
 ---
 
-## 🚀 Usage
+##  Usage
 
 This program generates pseudo-random numbers based on a user-provided seed. It allows you to:
 - **Generate a specified number of random numbers within a given range** 
